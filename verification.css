@@ -1,0 +1,40 @@
+#rondl{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#rondmaj{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#rondspec{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#rondmin{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#rondchiffres{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+#lineverif{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+#verif{
+    display: none;
+    background-color: red;
+    width: 350px;
+}
